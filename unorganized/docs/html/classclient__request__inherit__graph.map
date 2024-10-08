@@ -1,0 +1,12 @@
+<map id="client_request" name="client_request">
+<area shape="rect" id="node1" title=" " alt="" coords="151,183,265,209"/>
+<area shape="rect" id="node3" href="$classcall__uno__request.html" title=" " alt="" coords="327,5,459,32"/>
+<area shape="rect" id="node4" href="$classdraw__card__request.html" title=" " alt="" coords="320,56,465,83"/>
+<area shape="rect" id="node5" href="$classjoin__game__request.html" title=" " alt="" coords="319,107,466,133"/>
+<area shape="rect" id="node6" href="$classnew__round__request.html" title=" " alt="" coords="318,157,467,184"/>
+<area shape="rect" id="node7" href="$classpick__a__color__request.html" title=" " alt="" coords="313,208,472,235"/>
+<area shape="rect" id="node8" href="$classplay__card__request.html" title=" " alt="" coords="322,259,463,285"/>
+<area shape="rect" id="node9" href="$classplayer__left__request.html" title=" " alt="" coords="319,309,466,336"/>
+<area shape="rect" id="node10" href="$classstart__game__request.html" title=" " alt="" coords="317,360,469,387"/>
+<area shape="rect" id="node2" href="$classserializable.html" title=" " alt="" coords="5,183,103,209"/>
+</map>

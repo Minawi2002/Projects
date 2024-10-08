@@ -1,0 +1,19 @@
+digraph "/Users/michaelklein/Documents/unorganized/src/common"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_68267d1309a1af8e8297ef4c3efbcdba {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", label="src", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_68267d1309a1af8e8297ef4c3efbcdba.html",tooltip=""]
+  subgraph clusterdir_fdedb0aba14d44ce9d99bc100e026e6a {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", label="", fontname=Helvetica,fontsize=10 style="filled,bold", URL="dir_fdedb0aba14d44ce9d99bc100e026e6a.html",tooltip=""]
+    dir_fdedb0aba14d44ce9d99bc100e026e6a [shape=plaintext, label="common"];
+  dir_b8154c7787844a82e404ad1105f9f634 [label="exceptions", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_b8154c7787844a82e404ad1105f9f634.html",tooltip=""];
+  dir_5ca9256e394d76a5c0874f18b1fb2558 [label="game_state", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_5ca9256e394d76a5c0874f18b1fb2558.html",tooltip=""];
+  dir_fe680d193281dea8f29c9bf94b4af9e2 [label="network", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_fe680d193281dea8f29c9bf94b4af9e2.html",tooltip=""];
+  dir_4e6c883d8b666a44f8755f2472895d27 [label="serialization", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_4e6c883d8b666a44f8755f2472895d27.html",tooltip=""];
+  }
+  }
+}

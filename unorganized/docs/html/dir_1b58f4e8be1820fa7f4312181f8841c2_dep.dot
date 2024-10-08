@@ -1,0 +1,12 @@
+digraph "/Users/michaelklein/Documents/unorganized/src/common/network/requests"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_fe680d193281dea8f29c9bf94b4af9e2 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="network", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_fe680d193281dea8f29c9bf94b4af9e2.html",tooltip=""]
+  dir_1b58f4e8be1820fa7f4312181f8841c2 [label="requests", fillcolor="#edf0f7", color="grey25", style="filled,bold", URL="dir_1b58f4e8be1820fa7f4312181f8841c2.html",tooltip=""];
+  }
+}

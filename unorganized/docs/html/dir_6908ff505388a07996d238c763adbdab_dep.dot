@@ -1,0 +1,20 @@
+digraph "/Users/michaelklein/Documents/unorganized/src/client"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_68267d1309a1af8e8297ef4c3efbcdba {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", label="src", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_68267d1309a1af8e8297ef4c3efbcdba.html",tooltip=""]
+  subgraph clusterdir_6908ff505388a07996d238c763adbdab {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", label="", fontname=Helvetica,fontsize=10 style="filled,bold", URL="dir_6908ff505388a07996d238c763adbdab.html",tooltip=""]
+    dir_6908ff505388a07996d238c763adbdab [shape=plaintext, label="client"];
+  dir_98d1a7e371134c709d4fc84ec69c2fc0 [label="app", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_98d1a7e371134c709d4fc84ec69c2fc0.html",tooltip=""];
+  dir_95286cc27d0839770b2811ca335a3dfc [label="network", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_95286cc27d0839770b2811ca335a3dfc.html",tooltip=""];
+  dir_2ad9e53d4cf489d90b67fa9e6e15e8ea [label="panels", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_2ad9e53d4cf489d90b67fa9e6e15e8ea.html",tooltip=""];
+  dir_ff5f7fe87ec6ca7d5e72683ef5a2a55f [label="uiElements", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_ff5f7fe87ec6ca7d5e72683ef5a2a55f.html",tooltip=""];
+  dir_c48c410f804f8c93559dbea56e74ba89 [label="windows", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_c48c410f804f8c93559dbea56e74ba89.html",tooltip=""];
+  }
+  }
+}

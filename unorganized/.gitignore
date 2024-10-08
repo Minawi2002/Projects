@@ -1,0 +1,6 @@
+cmake-build-debug/
+/.clang-format/
+BreakBeforeBraces: Stroustrup
+.cache/
+build/
+.vscode/
